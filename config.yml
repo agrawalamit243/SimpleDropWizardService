@@ -1,0 +1,8 @@
+logging:
+  level: INFO
+  loggers:
+    org.SimpleDropWizardService: DEBUG
+
+#http:
+#  port: 8085
+#  adminPort: 8086

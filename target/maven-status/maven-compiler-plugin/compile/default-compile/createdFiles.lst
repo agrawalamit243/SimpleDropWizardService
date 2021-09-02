@@ -1,0 +1,3 @@
+org\SimpleDropWizardService\SimpleDropWizardServiceApplication.class
+org\SimpleDropWizardService\resources\HelloWorldResource.class
+org\SimpleDropWizardService\SimpleDropWizardServiceConfiguration.class
